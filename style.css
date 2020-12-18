@@ -1,7 +1,7 @@
 .main{
     height: 1080px;
     width: 100%;
-    background: url(/img/panda\ dark.png);
+    background: url("img/panda\ dark.png");
 
 }
 
@@ -24,6 +24,7 @@
     transition: 0.6s;
     margin-left: 5%;
     margin-top: 100px;
+    display: flex;
 }
 
 .main .button .h3{
@@ -33,6 +34,7 @@
     transition: 0.8s;
     text-decoration: none;
     margin: 10px;
+    margin: auto !important;
 }
 
 .main .button:hover{
