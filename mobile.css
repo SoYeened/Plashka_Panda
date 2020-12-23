@@ -17,6 +17,14 @@
     .main p{
         font-size: 16px;
     }
+    .main .button{
+        height: 50px;
+        width: 150px;
+    }
+    .main .button .h3{
+        font-size: 25px;
+        margin-left: 150px;
+    }
 }
 
 @media (max-width: 500px) {
