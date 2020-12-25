@@ -9,27 +9,22 @@
 
 @media (max-width: 750px) {
     .main p{
-        font-size: 20px;
+        font-size: 23px;
     }
 }
 
 @media (max-width: 615px) {
     .main p{
-        font-size: 16px;
+        font-size: 23px;
     }
     .main .button{
-        height: 50px;
-        width: 150px;
-    }
-    .main .button .h3{
-        font-size: 25px;
-        margin-left: 150px;
+        margin: auto;
     }
 }
 
 @media (max-width: 500px) {
     .main p{
-        font-size: 14px;
+        font-size: 23px;
     }
 }
 @media (max-width: 420px) {
