@@ -7,9 +7,36 @@
     }
 }
 
+@media (max-width: 870px) {
+    .main .text{
+        width: 500px;
+    }
+}
+
 @media (max-width: 750px) {
     .main p{
         font-size: 23px;
+    }
+    .main h2{
+        font-size: 35px;
+    }
+
+    .main .button{
+        margin: auto;
+    }
+
+    .main .button{
+        height: 50px;
+        width: 150px;
+    }
+    .main .button .h3{
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 690px){
+    .main .text{
+        width: 400px;
     }
 }
 
@@ -17,14 +44,14 @@
     .main p{
         font-size: 23px;
     }
-    .main .button{
-        margin: auto;
-    }
 }
 
 @media (max-width: 500px) {
     .main p{
         font-size: 23px;
+    }
+    .main .text{
+        width: 300px;
     }
 }
 @media (max-width: 420px) {
